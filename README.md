@@ -2,6 +2,8 @@
 
 Following tutorial for how to create and use a React plotly component on a React app.
 
+Link to app: https://graceful-longma-82a59c.netlify.app/
+
 - [@React PLotly](https://plotly.com/javascript/react/) guide for installing React Plotly.js
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
